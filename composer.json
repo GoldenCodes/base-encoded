@@ -1,0 +1,32 @@
+{
+    "name": "goldencodes/base-encoded",
+    "description": "Golden Codes: Base",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Paulo Oliveira",
+            "email": "paulo@golden.codes"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "laravel/framework": "5.4.*",
+        "zendframework/zend-eventmanager": "^3.2",
+        "moloquent/moloquent": "dev-master#1233506be0a24ec12bb5b6aa7a3ea5c1d31f0339"
+    },
+    "autoload": {
+        "psr-4": {
+            "GoldenCodes\\Base\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
