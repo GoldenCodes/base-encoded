@@ -11,8 +11,7 @@
     "require": {
         "php": "^7.0",
         "laravel/framework": "5.4.*",
-        "zendframework/zend-eventmanager": "^3.2",
-        "moloquent/moloquent": "dev-master#1233506be0a24ec12bb5b6aa7a3ea5c1d31f0339"
+        "zendframework/zend-eventmanager": "^3.2"
     },
     "autoload": {
         "psr-4": {
