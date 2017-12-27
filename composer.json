@@ -12,7 +12,7 @@
         "php": "^7.0",
         "laravel/framework": "5.5.*",
         "zendframework/zend-eventmanager": "^3.2",
-        "moloquent/moloquent": "dev-master"
+        "jenssegers/mongodb": "^3.3"
     },
     "autoload": {
         "psr-4": {
