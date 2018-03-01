@@ -1,1 +1,1 @@
-# gc-laravel-base-encoded
+# Golden Codes Base

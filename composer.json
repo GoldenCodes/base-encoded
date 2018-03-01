@@ -1,6 +1,6 @@
 {
-    "name": "goldencodes/base-encoded",
-    "description": "Golden Codes: Base",
+    "name": "goldencodes/base",
+    "description": "Golden Codes Base",
     "type": "library",
     "authors": [
         {
@@ -16,6 +16,7 @@
     "autoload": {
         "psr-4": {
             "GoldenCodes\\Base\\": "src/"
+
         },
         "files": [
             "src/helpers.php"
