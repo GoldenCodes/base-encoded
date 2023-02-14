@@ -60,6 +60,6 @@ labels:
     description: "Further information is requested"
     color: d876e3
 
-  - name: wontfix
+  - name: wontfixx
     description: "This will not be worked on"
-    color: ffffff
+    color: ffff00
